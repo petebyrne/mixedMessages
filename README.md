@@ -1,4 +1,5 @@
 # Journey
+
 ## Mixed Messages Project
 
 A simple program that prints a random set of messages to the console, giving the user a spirit animal, telling them where they are in their journey, and what action they should consider taking next.
